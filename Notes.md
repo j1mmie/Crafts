@@ -15,7 +15,9 @@
 ### Bolts:
 
 - Use ["Tee Nuts"](http://www.screwsandbolts.com/Brad-Hole-Tee-Nuts-p/60894.htm?1=1&CartID=0) to create surfaces to screw bolts into:
-   - [Tee Nuts that grip into wood surfaces also exist](https://www.grainger.com/product/1XGH5?gclid=CLjdgtzvldICFYF8fgoddSoPgA&cm_mmc=PPC:GOOGLEPLAA-_-Fasteners-_-Nuts-_-1XGH5&AL!2966!3!166589327950!!!g!82128465477!&s_kwcid=AL!2966!3!166589327950!!!g!82128465477!&ef_id=WKIaeQAAADAQXuGJ:20170217002744:s)
-   
-     
+   - [Tee Nuts that grip into wood surfaces](https://www.grainger.com/product/1XGH5?gclid=CLjdgtzvldICFYF8fgoddSoPgA&cm_mmc=PPC:GOOGLEPLAA-_-Fasteners-_-Nuts-_-1XGH5&AL!2966!3!166589327950!!!g!82128465477!&s_kwcid=AL!2966!3!166589327950!!!g!82128465477!&ef_id=WKIaeQAAADAQXuGJ:20170217002744:s)
+
+### Table Legs:
+  - [Etsy DIYMetalLegs](https://www.etsy.com/shop/DIYMetalLegs/items)
+  - [Houzz Industrial By Design](http://www.houzz.com/photos/products/seller--wbird51)
 
